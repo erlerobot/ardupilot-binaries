@@ -11,3 +11,5 @@ Erle-Brain APM binaries
 |plane/ArduPlane.elf| 16-02-2015|plane|IMUs: MPU9255 | |
 |[quad/ArduCopter.elf-v1.0](https://github.com/erlerobot/ardupilot-binaries/raw/master/quad/ArduCopter.elf-v1.0) | 9-4-2015 | copter | v1.0 | [erle-v1.0](https://github.com/erlerobot/ardupilot/tree/erle-v1.0) |
 |[quad/ArduCopter.elf-v1.0-snappy](https://github.com/erlerobot/ardupilot-binaries/raw/master/quad/ArduCopter.elf-v1.0-snappy) | 9-4-2015 | copter | v1.0 | [erle-v1.0-snappy](https://github.com/erlerobot/ardupilot/tree/erle-v1.0-snappy) |
+|[rover/APMrover2.elf](https://github.com/erlerobot/ardupilot-binaries/raw/master/rover/APMrover2.elf) | 9-4-2015 | rover | v1.0 | [erle-v1.0](https://github.com/erlerobot/ardupilot/tree/erle-v1.0) |
+
