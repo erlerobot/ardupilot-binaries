@@ -1,4 +1,4 @@
-Erle-Brain APM binaries
+Erle-Brain APM binaries DEPRECATED!
 ==========
 
 | Image | Date | Vehicle | Description | Tag | Parameters |
